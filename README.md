@@ -1,4 +1,4 @@
-# AmongLock
+# AmongLock 👻
 You were not the owner of this device
 
 ## Installation
